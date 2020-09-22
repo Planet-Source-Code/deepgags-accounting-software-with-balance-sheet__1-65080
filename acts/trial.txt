@@ -1,0 +1,126 @@
+-------------------------------------------------------------------------------
+Account Head / Ledger Name        Opening Balance  Debit Rs.    Credit Rs.  cl. Balance
+-------------------------------------------------------------------------------
+Cash-In-Hand
+     CASH IN HAND                       11245.32    146236.00    168208.68    -10727.36
+Direct Incomes
+     SALES-CST-2 %                          0.00      1752.00    125937.00   -124185.00
+Sundry Debtors
+     ANUPAM SWEETS                      36011.00     98623.00    134634.00         0.00
+Direct Incomes
+     SALES-4.4 %                            0.00     21243.00    538802.00   -517559.00
+Sundry Debtors
+     SAI SWEETS                           100.00     30928.00     30928.00       100.00
+     ANIL & CO.                          6644.00     23349.00     21210.00      8783.00
+     SHIVALIK BAKERY                    11790.00     72260.00     38409.00     45641.00
+     MODERN BOOK SHOP                    7500.00     17400.00      7500.00     17400.00
+     KESSHTRIYA PUNJAB KHADI MANDAL      7297.00     87625.00     94922.00         0.00
+     PUNJAB BOOK CENTRE                     0.00      6578.00      6578.00         0.00
+Indirect Expenses
+     BLOCK CHARGES                          0.00                    913.00      -913.00
+Sundry Debtors
+     H.DHARI SHAH DI HATTI              11411.00     27850.00     18964.00     20297.00
+     DEWSUN INDIA                        7105.00     12790.00     16085.00      3810.00
+     POLKA PASTRY SHOP                  11250.00     26516.00     23640.00     14126.00
+Sundry Creditors
+     JAIN BROTHERS                          0.00     45019.00     44874.00       145.00
+Direct Incomes
+     SALES -CST-10 %                        0.00      7785.00    123599.80   -115814.80
+Sundry Debtors
+     RAJESH TEXTILES                        0.00      5000.00      5600.00      -600.00
+     TILAK CHAND & SONS                     0.00      5000.00      2800.00      2200.00
+     CASH & CARRY                           0.00      3900.00                   3900.00
+     MAHAJAN CREATION                       0.00      7700.00                   7700.00
+Direct Incomes
+     SALES-8.8 %                            0.00       212.00      2617.00     -2405.00
+Sundry Debtors
+     VARIETY BOOK STORE                 25177.00     30774.00     45177.00     10774.00
+     SANGRUR KHANDI KARYA KARTA SAN         0.00     84901.00                  84901.00
+Indirect Expenses
+     BLOCK & DESIGN CHARGES                 0.00                   4536.20     -4536.20
+Sundry Debtors
+     KHADI ASHRAM                           0.00     26782.00     26567.00       215.00
+Direct Expenses
+     OPENING  STOCK                    115340.78                              115340.78
+     PURCHASE A/C                           0.00    559318.04                 559318.04
+Sundry Creditors
+     CHAWLA BOX MAKERS                   4104.88      2725.68      7134.00      -303.44
+Bank Accounts
+     BANK OF BARODA                     -8058.79    666072.00    718016.00    -60002.79
+Sundry Debtors
+     SNOWWHITE DRY CLEANERS             14121.00     17576.00     14121.00     17576.00
+     SUSPENCE                               0.00                                   0.00
+Sundry Creditors
+     CHAWLA PLASTIC INDUSTRIES         -24784.50     79784.00     60091.00     -5091.50
+Direct Expenses
+     FREIGHT & CARTAGE                      0.00      7340.00                   7340.00
+Indirect Expenses
+     POSTAGE & COURIER                      0.00       485.00                    485.00
+     TRAVELLING & CONVEYANCE                0.00     24000.00                  24000.00
+Sundry Creditors
+     SETHI POLY PLASTICS               -18558.38    119411.00    157958.04    -57105.42
+Current Assets
+     EXPENSES PAYABLE                   -4050.11      5317.00      6400.00     -5133.11
+Drawings
+     DRAWINGS A/C                           0.00     48368.00                  48368.00
+Sundry Debtors
+     EMPIRE STORES                      32260.00                  32260.00         0.00
+Current Assets
+     SALES TAX PAYABLE                 -11045.00     37347.00     30992.00     -4690.00
+Indirect Expenses
+     PRINTING & STATIONERY                  0.00       165.00                    165.00
+     BOOKS & PERIODICALS                    0.00      1282.00                   1282.00
+Sundry Creditors
+     AMARSONS POLYMERS                 -66373.02    320100.00    298161.00    -44434.02
+     UPKAR PACKERS                      -2173.00     10000.00     12294.00     -4467.00
+Sundry Debtors
+     THE ENGLISH BOOK SHOP              26076.00     45597.00     26176.00     45497.00
+Indirect Expenses
+     TELEPHONE EXPENSES                     0.00     16694.00                  16694.00
+     BANK CHARGES                           0.00      3643.00                   3643.00
+     RENT A/C                               0.00     26510.00                  26510.00
+Sundry Creditors
+     RADHA PRINTING PRESS               -4400.00     24000.00     15600.00      4000.00
+Capital
+     CAPITAL A/C-MRS SUMAN SYAL       -161207.18                             -161207.18
+Unsecured Loans
+     KANIKA SYAL                       -40000.00                              -40000.00
+     ANAND SYAL                       -115075.00       510.00      1500.00   -116065.00
+Fixed Assets
+     FURNITURE & FIXTURES                 906.00                                 906.00
+     PRINTING EQUIPMENTS                 2950.00                                2950.00
+     MOBILE SET                          6500.00                                6500.00
+Current Liability
+     SECURITY-RENT                       5400.00                                5400.00
+     SECURITY-TELEPHONE                  2000.00                                2000.00
+Sundry Debtors
+     SINDHI SWEETS,17,CHD.              17486.00                               17486.00
+     PATIALA KHADI GROMOUDYOG           26358.00                               26358.00
+     KASTURBA SEWA MANDIR TRUST,R.P     21002.00                  11002.00     10000.00
+     KASTURBA SEWA MANDIR TRUST         13511.00                               13511.00
+     UNIVERSITY BOOK DEPOT               6999.00                                6999.00
+     ANIL'S-22                           1452.00      7392.00      9424.00      -580.00
+     SANTOSH MEDICOS                      735.00                                 735.00
+     PAUL STORES                         3520.00                   3520.00         0.00
+Indirect Expenses
+     INTEREST PAID                          0.00      7033.00                   7033.00
+     SALARY A/C                             0.00     36000.00                  36000.00
+Sundry Debtors
+     DEEPA  PHOTOSTAT                       0.00                                   0.00
+     KASHMIR  READYMADES                    0.00     25850.00     20000.00      5850.00
+     FASHIONERS                         13857.00      5332.00     19189.00         0.00
+     PAPULAR  BOOK STORE                 5616.00     20880.00     18936.00      7560.00
+Unsecured Loans
+     SANJEEV AGGARWAL                       0.00                  15000.00    -15000.00
+Sundry Debtors
+     KHADI GRAMOUDYOG BHAWAR                0.00      8327.00      8327.00         0.00
+     ANNPURNA SWEETS                        0.00     37961.00       500.00     37461.00
+     FANCY BOOK STORE                       0.00      4750.00                   4750.00
+     CHANDIGARH SHOE CO.                    0.00                   5000.00     -5000.00
+     RISHI TAILORS/22,CHD.                  0.00      7100.00                   7100.00
+Indirect Expenses
+     ACCUNTING CHARGES                      0.00      6270.00                   6270.00
+     INSURNACE CHARGES                      0.00       740.00                    740.00
+-------------------------------------------------------------------------------
+                                            0.00   2974102.72   2974102.72         0.00
+-------------------------------------------------------------------------------
