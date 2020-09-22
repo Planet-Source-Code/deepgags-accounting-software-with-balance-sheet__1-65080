@@ -1,0 +1,130 @@
+VERSION 5.00
+Begin VB.PropertyPage UserSettings 
+   Caption         =   "UserSettings"
+   ClientHeight    =   3495
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   5925
+   PaletteMode     =   0  'Halftone
+   ScaleHeight     =   3495
+   ScaleWidth      =   5925
+   Begin VB.CheckBox chkOnFocusSelected 
+      Caption         =   "OnFocusSelected"
+      Height          =   285
+      Left            =   90
+      TabIndex        =   7
+      Top             =   2720
+      Width           =   2700
+   End
+   Begin VB.TextBox txtValidationList 
+      Height          =   330
+      Left            =   90
+      TabIndex        =   6
+      Top             =   2320
+      Width           =   2700
+   End
+   Begin VB.CheckBox chkEnterKeyLostFocus 
+      Caption         =   "EnterKeyLostFocus"
+      Height          =   285
+      Left            =   90
+      TabIndex        =   4
+      Top             =   1420
+      Width           =   2700
+   End
+   Begin VB.TextBox txtMaxValue 
+      Height          =   330
+      Left            =   90
+      TabIndex        =   3
+      Top             =   1020
+      Width           =   2700
+   End
+   Begin VB.TextBox txtMinValue 
+      Height          =   330
+      Left            =   90
+      TabIndex        =   1
+      Top             =   370
+      Width           =   2700
+   End
+   Begin VB.Label lblValidationList 
+      Caption         =   "ValidationList:"
+      Height          =   240
+      Left            =   90
+      TabIndex        =   5
+      Top             =   2070
+      Width           =   2700
+   End
+   Begin VB.Label lblMaxValue 
+      Caption         =   "MaxValue:"
+      Height          =   240
+      Left            =   90
+      TabIndex        =   2
+      Top             =   770
+      Width           =   2700
+   End
+   Begin VB.Label lblMinValue 
+      Caption         =   "MinValue:"
+      Height          =   240
+      Left            =   90
+      TabIndex        =   0
+      Top             =   120
+      Width           =   2700
+   End
+End
+Attribute VB_Name = "UserSettings"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = False
+Private Sub chkValidationList_Click()
+    Changed = True
+End Sub
+
+
+Private Sub txtEnterKeyLostFocus_Change()
+    Changed = True
+End Sub
+
+
+Private Sub chkOnFocusSelected_Click()
+    Changed = True
+End Sub
+
+
+Private Sub txtValidationList_Change()
+    Changed = True
+End Sub
+
+
+Private Sub chkEnterKeyLostFocus_Click()
+    Changed = True
+End Sub
+
+
+Private Sub txtMaxValue_Change()
+    Changed = True
+End Sub
+
+
+Private Sub txtMinValue_Change()
+    Changed = True
+End Sub
+
+
+Private Sub PropertyPage_ApplyChanges()
+    SelectedControls(0).OnFocusSelected = (chkOnFocusSelected.Value = vbChecked)
+    SelectedControls(0).ValidationList = txtValidationList.Text
+    SelectedControls(0).EnterKeyLostFocus = (chkEnterKeyLostFocus.Value = vbChecked)
+    SelectedControls(0).MaxValue = txtMaxValue.Text
+    SelectedControls(0).MinValue = txtMinValue.Text
+End Sub
+
+
+Private Sub PropertyPage_SelectionChanged()
+    chkOnFocusSelected.Value = (SelectedControls(0).OnFocusSelected And vbChecked)
+    txtValidationList.Text = SelectedControls(0).ValidationList
+    chkEnterKeyLostFocus.Value = (SelectedControls(0).EnterKeyLostFocus And vbChecked)
+    txtMaxValue.Text = SelectedControls(0).MaxValue
+    txtMinValue.Text = SelectedControls(0).MinValue
+End Sub
+
+
